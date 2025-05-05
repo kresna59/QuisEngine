@@ -1,0 +1,5 @@
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Cli\obj\Debug\net8.0\QuizEngine.Cli.csproj.AssemblyReference.cache
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Cli\obj\Debug\net8.0\QuizEngine.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Cli\obj\Debug\net8.0\QuizEngine.Cli.AssemblyInfoInputs.cache
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Cli\obj\Debug\net8.0\QuizEngine.Cli.AssemblyInfo.cs
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Cli\obj\Debug\net8.0\QuizEngine.Cli.csproj.CoreCompileInputs.cache

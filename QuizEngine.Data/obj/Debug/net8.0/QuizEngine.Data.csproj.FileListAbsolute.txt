@@ -1,0 +1,15 @@
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\bin\Debug\net8.0\QuizEngine.Data.deps.json
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\bin\Debug\net8.0\QuizEngine.Data.dll
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\bin\Debug\net8.0\QuizEngine.Data.pdb
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\bin\Debug\net8.0\QuizEngine.Core.dll
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\bin\Debug\net8.0\QuizEngine.Core.pdb
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.csproj.AssemblyReference.cache
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.AssemblyInfoInputs.cache
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.AssemblyInfo.cs
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.csproj.CoreCompileInputs.cache
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngi.38465413.Up2Date
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.dll
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\refint\QuizEngine.Data.dll
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\QuizEngine.Data.pdb
+C:\Users\agung\OneDrive\Documents\QuizEngine\QuizEngine.Data\obj\Debug\net8.0\ref\QuizEngine.Data.dll

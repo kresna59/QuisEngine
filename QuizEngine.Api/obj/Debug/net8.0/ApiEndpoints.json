@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "QuizEngine.Api.Controllers.QuizController",
+    "Method": "SubmitAnswer",
+    "RelativePath": "api/quiz/answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "QuizEngine.Api.Controllers.AnswerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizEngine.Api.Controllers.QuizController",
+    "Method": "GetResult",
+    "RelativePath": "api/quiz/result",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "QuizEngine.Core.Models.QuizResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QuizEngine.Api.Controllers.QuizController",
+    "Method": "Start",
+    "RelativePath": "api/quiz/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quiz",
+        "Type": "QuizEngine.Core.Models.Quiz",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

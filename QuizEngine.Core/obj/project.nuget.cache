@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lhf08ITQ4I0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agung\\OneDrive\\Documents\\QuizEngine\\QuizEngine.Core\\QuizEngine.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agung\\.nuget\\packages\\system.io.pipelines\\9.0.4\\system.io.pipelines.9.0.4.nupkg.sha512",
+    "C:\\Users\\agung\\.nuget\\packages\\system.text.encodings.web\\9.0.4\\system.text.encodings.web.9.0.4.nupkg.sha512",
+    "C:\\Users\\agung\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

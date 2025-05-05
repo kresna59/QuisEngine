@@ -1,0 +1,16 @@
+{
+  "Title": "C# Quiz",
+  "Questions": [
+    {
+      "Type": "MultipleChoice",
+      "Text": "What is encapsulation?",
+      "Options": [ "A OOP principle", "A DB concept" ],
+      "CorrectAnswer": "A OOP principle"
+    },
+    {
+      "Type": "TrueFalse",
+      "Text": "C# is statically typed",
+      "CorrectAnswer": true
+    }
+  ]
+}

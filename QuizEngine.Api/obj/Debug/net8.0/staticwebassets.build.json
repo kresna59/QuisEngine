@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7KXOsel/THX4FDfnHm5f7O+y731D2tBwPUG7rYtZPJ0=",
+  "Source": "QuizEngine.Api",
+  "BasePath": "_content/QuizEngine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
